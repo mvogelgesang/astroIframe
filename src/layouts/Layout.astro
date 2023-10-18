@@ -26,7 +26,8 @@ const { title } = Astro.props;
 		window.addEventListener("load", () => {
 			console.log("load");
 			const data = {location: window.location.href};
-			window.parent.postMessage(data);
+			
+			window.parent.postMessage(data,"*");
 			console.log(data);
 		});
 
