@@ -1,5 +1,5 @@
 ---
-layout: "../../layouts/Post.astro"
+layout: "../../layouts/PostLayout.astro"
 generator: "https://pirateipsum.me/"
 title: "Aye Matey!"
 excerpt: "Piracy doubloon bring a spring upon her cable gun knave brig rum bilged on her anchor to go on account brigantine."

@@ -1,5 +1,5 @@
 ---
-layout: "../../layouts/Post.astro"
+layout: "../../layouts/PostLayout.astro"
 title: "Cheese"
 generator: "https://www.cheeseipsum.co.uk/"
 excerpt: "I love cheese, especially caerphilly hard cheese. Cheese slices taleggio swiss fromage frais squirty cheese cut the cheese cheesy feet babybel."

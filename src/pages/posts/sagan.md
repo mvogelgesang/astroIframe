@@ -1,9 +1,10 @@
 ---
-layout: "../../layouts/Post.astro"
+layout: "../../layouts/PostLayout.astro"
 title: "Carl Sagan"
 generator: "https://saganipsum.com/"
 excerpt: "Shores of the cosmic ocean cosmic ocean Vangelis rings of Uranus Drake Equation emerged into consciousness."
 ---
+
 Shores of the cosmic ocean cosmic ocean Vangelis rings of Uranus Drake Equation emerged into consciousness. A very small stage in a vast cosmic arena a still more glorious dawn awaits encyclopaedia galactica with pretty stories for which there's little good evidence gathered by gravity venture. Finite but unbounded from which we spring encyclopaedia galactica permanence of the stars two ghostly white figures in coveralls and helmets are softly dancing hearts of the stars?
 
 Finite but unbounded preserve and cherish that pale blue dot dispassionate extraterrestrial observer vanquish the impossible cosmos globular star cluster. Emerged into consciousness kindling the energy hidden in matter something incredible is waiting to be known shores of the cosmic ocean prime number great turbulent clouds? Bits of moving fluff not a sunrise but a galaxyrise kindling the energy hidden in matter kindling the energy hidden in matter dream of the mind's eye citizens of distant epochs.

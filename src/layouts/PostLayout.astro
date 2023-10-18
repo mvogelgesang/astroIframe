@@ -5,11 +5,12 @@ export interface Props {
   content: {
     title: string;
     generator: string;
-
-  }
+  };
 }
 
-const {content: {title, generator}} = Astro.props;
+const {
+  content: { title, generator },
+} = Astro.props;
 ---
 
 <Layout title={title}>
